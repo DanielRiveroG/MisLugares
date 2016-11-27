@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mis Lugares</string>
+    <string name="name">Nombre:</string>
+    <string name="identify">algo que indentifique el lugar</string>
+    <string name="type">Tipo:</string>
+    <string name="adress">Dirección:</string>
+    <string name="dirad">dirección del lugar</string>
+</resources>
