@@ -5,4 +5,10 @@
     <string name="type">Tipo:</string>
     <string name="adress">Dirección:</string>
     <string name="dirad">dirección del lugar</string>
+    <string name="phone">Teléfono:</string>
+    <string name="hphone">teléfono para contactar</string>
+    <string name="turl">Url:</string>
+    <string name="pagweb">página web</string>
+    <string name="coment">Comentario:</string>
+    <string name="inotes">introduce tus notas</string>
 </resources>
